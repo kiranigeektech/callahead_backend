@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktruck_tracking=self.webpackChunktruck_tracking||[]).push([[725],{3725:function(e,a,n){n.r(a),n.d(a,{default:function(){return c}});var s=n(2791),t=n(184),c=function(){return(0,t.jsx)(s.Fragment,{children:(0,t.jsx)("div",{className:"Page__404",children:(0,t.jsx)("img",{className:"Page__404--image",alt:"Page not found",src:"/assets/image/404.svg"})})})}}}]);
+//# sourceMappingURL=725.c4d95c64.chunk.js.map
